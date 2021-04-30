@@ -5,3 +5,4 @@ This is how the files are organised.
 EDA1&2 - 2 parts of Exploratory Data Analysis with some data visualisations
 RFM Segmentation - Using different clustering methods to segment customers
 Cold Start - An attempt to solve a cold start problem that is, what should we do to new customers if they do not have R, F and M data for us to work with? 
+Radar Chart of RFM segments - A Radar Chart to help us visualise the clusters better
