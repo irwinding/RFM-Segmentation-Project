@@ -1,2 +1,2 @@
 # Data Science Project on Clustering
-RFM Segmentation on e-commerce customers
+RFM Segmentation on e-commerce customers.
